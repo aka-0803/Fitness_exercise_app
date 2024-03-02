@@ -6,7 +6,7 @@ This project is a fitness exercises app developed in React, aimed at providing u
 
 ## Demo
 
-Check out the live demo [here](https://app.netlify.com/sites/akash-gym-app/overview) 🚀.
+Check out the live demo [here](https://akash-gym-app.netlify.app/) 🚀.
 
 ## Tech Stack
 
