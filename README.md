@@ -2,7 +2,6 @@
 
 This project is a fitness exercises app developed in React, aimed at providing users with advanced functionalities to enhance their workout experience.
 
-![home_page Photo](demo_images/home.png)
 
 
 
