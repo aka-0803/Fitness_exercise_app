@@ -1,11 +1,9 @@
-# Fitness Exercises App 💪
+# Gold Gym (Fitness Exercises App) 💪
 
 This project is a fitness exercises app developed in React, aimed at providing users with advanced functionalities to enhance their workout experience.
 
 ![home_page Photo](demo_images/home.png)
-![home_page_2](demo_images/2nd_home.png)
-![exercise](demo_images/particular_page.png)
-![exercise_yt](demo_images/2n_particular.png)
+
 
 
 ## Demo
